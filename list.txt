@@ -9,7 +9,10 @@ Sausages
 Fishes
 
 Dairy
-
+Milk
+Eggs
+Yoghurt
+Butter
 
 Others
 
