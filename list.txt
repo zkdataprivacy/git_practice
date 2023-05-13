@@ -1,13 +1,19 @@
 Fruits and Vegatables
 Apples
 Bananas
+Oranges
+strawberries
 
 Meat
-
+Sausages
+Fishes
 
 Dairy
 
 
 Others
+
+
+Pet food
 
 
